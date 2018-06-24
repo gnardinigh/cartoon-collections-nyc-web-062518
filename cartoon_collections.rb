@@ -10,3 +10,4 @@ end
 
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 
+planeteer_calls.
