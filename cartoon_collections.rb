@@ -15,4 +15,4 @@ def summon_captain_planet(planeteer_calls)
     element.capitalize+="!"
   end
   
-puts summon_captain_planet(planeteer_calls).inspect
+a = summon_captain_planet(planeteer_calls)
