@@ -8,3 +8,4 @@ def roll_call_dwarves(dwarves)
   end
 end
 
+planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
