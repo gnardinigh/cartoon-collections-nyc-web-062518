@@ -15,3 +15,4 @@ def summon_captain_planet(planeteer_calls)
     element.capitalize+="!"
   end
   
+summon_captain_planet(planeteer_calls)
