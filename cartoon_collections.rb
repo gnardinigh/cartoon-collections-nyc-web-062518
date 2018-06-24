@@ -23,5 +23,6 @@ def long_planeteer_calls(calls)
 end
 
 def find_the_cheese(strings)
-  
+  strings.find do |food_item|
+    
 end
